@@ -46,10 +46,11 @@ Always learning, always experimenting, always evolving.
 ---
 
 ### 📫 Let's Connect
-- 📧 andreas@example.com
-- 🌐 [Portfolio Website](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📷 [Instagram](https://instagram.com/yourhandle)
+- 📧 andreasashun123@gmail.com
+- 🌐 coming soon
+- 💼 www.linkedin.com/in/andreas-pangjiashun-8b5b702b5
+- 📷 larrache_
+
 
 ---
 
