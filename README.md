@@ -46,7 +46,7 @@ Always learning, always experimenting, always evolving.
 ---
 
 ### 📫 Let's Connect
-- 📧 andreasashun123@gmail.com
+- 📧 andreasashun675@gmail.com
 - 🌐 coming soon
 - 💼 Andreas Pangjiashun
 - 📷 larrache_
