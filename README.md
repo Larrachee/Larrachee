@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./terminal.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="./terminal.gif.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
