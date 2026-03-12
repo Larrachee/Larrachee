@@ -1,7 +1,7 @@
 # ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/694da87779f428d09d3753198084ca3b/tumblr_mkyv6m3F6k1r57p6go1_500.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6ZHN2dzB4bmZidXN6Y2N0Zmx6ZTN6Z3Z2Z3Z2Z3Z2Z3Z2ZiZzZhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@ I am a **Computer Engineering student at Telkom University** specializing in the
 - 🕹️ **Hardware Build:** Engineered a "Whack-A-Mole" game using **STM32 Blue Pill** and custom logic.
 - 🏠 **Home Lab:** Managing a self-hosted ecosystem with **Proxmox VE**, hosting game servers and web portfolios.
 - 🎨 **Interests:** Blending gaming aesthetics (MLBB & Genshin) with modern **UI/UX principles**.
-
 ---
 
 ### 📂 Technical Directory
