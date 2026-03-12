@@ -1,12 +1,14 @@
 # ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6ZHN2dzB4bmZidXN6Y2N0Zmx6ZTN6Z3Z2Z3Z2Z3Z2Z3Z2ZiZzZhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="https://i.pinimg.com/originals/de/13/1d/de131d798a1f8102a3962657e4e1140d.gif" width="600" alt="Matrix Terminal GIF" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4AF626&center=true&vCenter=true&width=600&height=100&lines=Initializing+System...;Building+NAS+with+CasaOS...;Optimizing+Embedded+Systems...;Connection+Established." alt="Typing SVG" />
 </p>
+
+---
 
 ---
 
