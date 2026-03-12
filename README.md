@@ -1,7 +1,6 @@
-# ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="terminal.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="./terminal.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
@@ -9,6 +8,13 @@
 </p>
 
 ---
+
+### 📟 System Overview
+I am a **Computer Engineering student at Telkom University** specializing in the intersection of hardware efficiency and human-centric design. From debugging **STM32 firmware** to orchestrating **Proxmox home labs**, I build systems that are as reliable as they are intuitive.
+
+- 🛠️ **Current Project:** Architecting a high-availability **NAS (Network Attached Storage)** using **CasaOS** and **Docker** for private cloud storage.
+- 🕹️ **Hardware Build:** Engineered a "Whack-A-Mole" game, Smart Plant Monitoring System, and much more using **ARDUINO UNO**, **STM32 Blue Pill**, and custom logic.
+- 🏠 **Home Lab:** Managing a self-hosted ecosystem with **Proxmox VE**, hosting game servers and web portfolios.
 
 ### 📟 System Overview
 I am a **Computer Engineering student at Telkom University** specializing in the intersection of hardware efficiency and human-centric design. From debugging **STM32 firmware** to orchestrating **Proxmox home labs**, I build systems that are as reliable as they are intuitive.
