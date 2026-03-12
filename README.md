@@ -1,7 +1,7 @@
 # 🎌 Hello World, I'm Andreas Pangjiashun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NiaXl0YjE3cWgzcTdsNzh2ejBtMzBlOHlydzUweWc0ZnpxbmZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Japanese Aesthetic GIF" />
+  <img src="https://pin.it/1o9h0sfRT" width="100%" alt="Japanese Aesthetic GIF" />
 </p>
 
 <p align="center">
