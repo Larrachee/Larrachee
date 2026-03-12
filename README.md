@@ -10,18 +10,18 @@
 
 <div align="center">
 
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Larrachee&theme=tokyonight&no-bg=true&margin-w=15" alt="github profile trophy" />
+### 🚀 Engineering Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Larrachee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
 ### 🐍 System Telemetry & Contribution Grid
 <table border="0">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&theme=tokyonight&border_radius=10" width="400" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/Larrachee/Larrachee/output/github-contribution-grid-snake.svg" width="400" alt="Snake Animation" />
     </td>
   </tr>
