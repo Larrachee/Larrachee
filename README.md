@@ -1,7 +1,7 @@
 # ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreas-pangjiashun/andreas-pangjiashun/main/terminal.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6ZHN2dzB4bmZidXN6Y2N0Zmx6ZTN6Z3Z2Z3Z2Z3Z2Z3Z2ZiZzZhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif'" width="600" alt="Matrix Terminal GIF" />
+  <img src="terminal.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
