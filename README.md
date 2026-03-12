@@ -8,21 +8,28 @@
 
 ---
 
+<div align="center">
+
 ### 🏆 Achievements
-[![github profile trophy](https://github-profile-trophy.vercel.app/?username=Larrachee&theme=tokyonight&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Larrachee&theme=tokyonight&no-bg=true&margin-w=15" alt="github profile trophy" />
 
 ---
 
 ### 🐍 System Telemetry & Contribution Grid
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://raw.githubusercontent.com/Larrachee/Larrachee/output/github-contribution-grid-snake.svg" width="48%" alt="Snake Animation" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&theme=tokyonight&border_radius=10" width="400" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Larrachee/Larrachee/output/github-contribution-grid-snake.svg" width="400" alt="Snake Animation" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
 ### 📟 Current Mission Control
 <table align="center">
   <tr>
