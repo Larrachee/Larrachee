@@ -1,4 +1,4 @@
-# ⚡ Terminal.exe --user Andreas-Pangjiashun
+# ⚡ Andreas-Pangjiashun
 
 <div align="center">
 
