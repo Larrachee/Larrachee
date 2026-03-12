@@ -1,11 +1,11 @@
 # ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9e/42/1d/9e421d09e37c44917a1262d1645395a3.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="https://64.media.tumblr.com/694da87779f428d09d3753198084ca3b/tumblr_mkyv6m3F6k1r57p6go1_500.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4AF626&center=true&vCenter=true&width=600&height=50&lines=Initializing+System...;Loading+Computer+Engineer+Module...;Accessing+Home+Lab+Stats...;Connection+Established." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=4AF626&center=true&vCenter=true&width=600&height=100&lines=Initializing+System...;Building+NAS+with+CasaOS...;Optimizing+Embedded+Systems...;Connection+Established." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### 📟 System Overview
 I am a **Computer Engineering student at Telkom University** specializing in the intersection of hardware efficiency and human-centric design. From debugging **STM32 firmware** to orchestrating **Proxmox home labs**, I build systems that are as reliable as they are intuitive.
 
-- 🛠️ **Current Project:** Architecting a high-availability **NAS (Network Attached Storage)** using **CasaOS** and **Docker** for automated media management and private cloud storage.
+- 🛠️ **Current Project:** Architecting a high-availability **NAS (Network Attached Storage)** using **CasaOS** and **Docker** for private cloud storage.
 - 🕹️ **Hardware Build:** Engineered a "Whack-A-Mole" game using **STM32 Blue Pill** and custom logic.
 - 🏠 **Home Lab:** Managing a self-hosted ecosystem with **Proxmox VE**, hosting game servers and web portfolios.
 - 🎨 **Interests:** Blending gaming aesthetics (MLBB & Genshin) with modern **UI/UX principles**.
