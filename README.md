@@ -1,6 +1,7 @@
+# ⚡ Andreas-Pangjiashun
 
 <p align="center">
-  <img src="./terminal.gif.gif" width="600" alt="Terminal Aesthetic GIF" />
+  <img src="terminal.gif.gif" width="600" alt="Terminal Aesthetic GIF" />
 </p>
 
 <p align="center">
@@ -8,7 +9,6 @@
 </p>
 
 ---
-
 ### 📟 System Overview
 I am a **Computer Engineering student at Telkom University** specializing in the intersection of hardware efficiency and human-centric design. From debugging **STM32 firmware** to orchestrating **Proxmox home labs**, I build systems that are as reliable as they are intuitive.
 
