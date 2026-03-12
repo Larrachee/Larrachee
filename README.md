@@ -1,7 +1,7 @@
 # ⚡ Terminal.exe --user Andreas-Pangjiashun
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/de/13/1d/de131d798a1f8102a3962657e4e1140d.gif" width="600" alt="Matrix Terminal GIF" />
+  <img src="https://raw.githubusercontent.com/andreas-pangjiashun/andreas-pangjiashun/main/terminal.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6ZHN2dzB4bmZidXN6Y2N0Zmx6ZTN6Z3Z2Z3Z2Z3Z2Z3Z2ZiZzZhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif'" width="600" alt="Matrix Terminal GIF" />
 </p>
 
 <p align="center">
@@ -10,15 +10,12 @@
 
 ---
 
----
-
 ### 📟 System Overview
 I am a **Computer Engineering student at Telkom University** specializing in the intersection of hardware efficiency and human-centric design. From debugging **STM32 firmware** to orchestrating **Proxmox home labs**, I build systems that are as reliable as they are intuitive.
 
 - 🛠️ **Current Project:** Architecting a high-availability **NAS (Network Attached Storage)** using **CasaOS** and **Docker** for private cloud storage.
-- 🕹️ **Hardware Build:** Engineered a "Whack-A-Mole" game using **STM32 Blue Pill** and custom logic.
+- 🕹️ **Hardware Build:** Engineered a "Whack-A-Mole" game, Smart Plant Monitoring System, and much more using **ARDUINO UNO, STM32 Blue Pill and many more** and custom logic.
 - 🏠 **Home Lab:** Managing a self-hosted ecosystem with **Proxmox VE**, hosting game servers and web portfolios.
-- 🎨 **Interests:** Blending gaming aesthetics (MLBB & Genshin) with modern **UI/UX principles**.
 ---
 
 ### 📂 Technical Directory
@@ -27,7 +24,7 @@ I am a **Computer Engineering student at Telkom University** specializing in the
 | :--- | :--- |
 | **01_Hardware** | `C` `C++` `Python` `STM32` `Arduino` `Embedded Systems` |
 | **02_Network** | `Cisco` `MikroTik` `Wireshark` `Wokwi Simulation` |
-| **03_Infra** | `Proxmox` `CasaOS` `Docker` `Linux (Ubuntu)` `NAS` |
+| **03_Infra** | `Proxmox` `CasaOS` `Docker` `Linux (Ubuntu)` `NAS` `CASAOS`|
 | **04_Frontend** | `React` `JavaScript` `HTML5` `CSS3` `Figma` |
 
 ---
