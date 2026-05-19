@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Andreas Pangjiashun
+# Andreas Pangjiashun
 
 <img src="terminal.gif.gif" width="600" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NiaXl0YjE3cWgzcTdsNzh2ejBtMzBlOHlydzUweWc0ZnpxbmZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif'" />
 
