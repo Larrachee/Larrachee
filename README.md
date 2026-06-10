@@ -20,7 +20,7 @@
 
 #### 🛠️ Development Projects
 - **NAS Architect** — High-availability storage with CasaOS & Docker
-- **Whack-A-Mole** — Embedded game logic on STM32 Blue Pill
+- **Home Server** — Server Homelab
 - **HabitRiver** — Performance-focused habit tracker with React
 
 </td>
