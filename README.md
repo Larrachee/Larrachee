@@ -81,7 +81,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larrachee&hide_border=true&border_radius=10&background=0D1117&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=888888" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&border_radius=10&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&ring_color=FF3333" height="160" />
+ 
 </div>
 
 <br/>
