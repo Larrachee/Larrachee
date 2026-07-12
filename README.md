@@ -2,37 +2,148 @@
 
 # ✦ Andreas Pangjiashun ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4AF626&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;UI%2FUX+Design+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;UI%2FUX+Design+Explorer" alt="Typing SVG" />
 
-<br>
+<!-- Main Anime Banner -->
+<img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" />
 
-*Bridging robust network infrastructure with thoughtful design*
+<br/>
 
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreas-pangjiashun-8b5b702b5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andreasashun123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/larrache_)
-<br>
+*⚡ Bridging robust network infrastructure with thoughtful design ⚡*
 
 </div>
 
 ---
 
-### 🎯 Mission Control | Current Focus
+<table>
+<tr>
+<td width="50%">
 
-*Sebuah ringkasan status proyek dan tujuan pembelajaran saya saat ini.*
+## 🎯 About Me
 
-<br>
+* 🎓 **Computer Engineering Student** at Telkom University
+* 🌐 **Infrastructure & Virtualization:** Home server setups, Proxmox, CasaOS, Docker
+* ⚡ **Embedded Systems & IoT:** STM32, ESP32, Arduino ecosystems
+* 🎨 **UI/UX Design Explorer:** Figma, modern frontend tech
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/b6/8a/6c/b68a6c66727b6a702e0979fd324d588b.gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Current Focus
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+<td width="50%" valign="top">
 
-#### 🛠️ System Development
-```text
->_ NAS Architect
-   [Status: Deploying Docker]
->_ Home Server
-   [Status: Proxmox Config]
->_ HabitRiver
-   [Status: React Optimization]
+#### 🛠️ Development Projects
+* **NAS Architect** — High-availability storage with CasaOS & Docker
+* **Home Server** — Dedicated server homelab management
+* **HabitRiver** — Performance-focused habit tracker with React
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Design & Simulation
+* **Circuit Logic** — Real-time hardware simulation via Wokwi
+* **Web Portfolio** — Optimized UI/UX for maximum performance
+* **Creative Blend** — Gaming aesthetics in web layouts
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Technical Arsenal
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | ![C](https://img.shields.io/badge/C-FF3333?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-FF3333?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FF3333?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FF3333?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-FF3333?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-FF3333?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-FF3333?style=flat-square&logo=css3&logoColor=white) |
+| **Infra & Tools** | ![Docker](https://img.shields.io/badge/Docker-FF3333?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-FF3333?style=flat-square&logo=proxmox&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FF3333?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-FF3333?style=flat-square&logo=git&logoColor=white) |
+| **Embedded** | ![STM32](https://img.shields.io/badge/STM32-FF3333?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-FF3333?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FF3333?style=flat-square&logo=raspberry-pi&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larrachee&theme=merko&hide_border=true&border_radius=10&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&theme=merko&border_radius=10&hide_border=true&include_all_commits=true&title_color=FF3333&icon_color=FF3333" height="160" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larrachee&theme=github&hide_border=true&bg_color=0d1117&color=FF3333&line=FF3333&point=ffffff" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Larrachee/Larrachee/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation" />
+</div>
+
+---
+
+### 🎮 Anime Corner
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" />
+</div>
+
+---
+
+### 📈 Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larrachee&theme=monokai" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larrachee&theme=monokai" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Larrachee&theme=monokai" height="180" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-FF3333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreasashun123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreas-pangjiashun-8b5b702b5)
+[![Instagram](https://img.shields.io/badge/Instagram-FF3333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/larrache_)
+[![GitHub](https://img.shields.io/badge/GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larrachee)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Larrachee&color=FF3333&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+### ⚡ Terminal Quote
+
+```bash
+$ echo "🔥 Code. Build. Iterate. Repeat. 🔥"
+$ sudo systemctl start passion.service
+$ neofetch --anime_mode on
+
+> Loading awesomeness... ████████████████ 100%
+> Power level: OVER 9000!
