@@ -101,7 +101,7 @@
 ### 🥀
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" width="400" alt="Anime Aesthetic" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" width="800" alt="Anime Aesthetic" style="border-radius: 10px;" />
 </div>
 
 ---
