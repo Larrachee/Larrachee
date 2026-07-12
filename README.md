@@ -145,5 +145,5 @@ $ echo "🔥 Code. Build. Iterate. Repeat. 🔥"
 $ sudo systemctl start passion.service
 $ neofetch --anime_mode on
 
-> Loading awesomeness... ████████████████ 100%
+> Loading someone... █████ 50%
 > Power level: OVER 9000!
