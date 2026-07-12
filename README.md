@@ -2,10 +2,10 @@
 
 # ✦ Andreas Pangjiashun ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;IoT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;IoT+Engineer" alt="Typing SVG" />
 
 <!-- Main Anime Banner -->
-<img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" />
+<img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" width="100%" alt="Anime Banner" style="border-radius: 15px; border: 3px solid #FF3333;" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://i.pinimg.com/originals/b6/8a/6c/b68a6c66727b6a702e0979fd324d588b.gif"/>
+<img src="https://i.pinimg.com/originals/b6/8a/6c/b68a6c66727b6a702e0979fd324d588b.gif" width="300" alt="Anime Working" style="border-radius: 10px;" />
 
 </td>
 </tr>
@@ -80,14 +80,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larrachee&theme=merko&hide_border=true&border_radius=10&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&theme=merko&border_radius=10&hide_border=true&include_all_commits=true&title_color=FF3333&icon_color=FF3333" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larrachee&hide_border=true&border_radius=10&background=0D1117&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3333&sideLabels=FF3333&dates=888888" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Larrachee&show_icons=true&border_radius=10&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&ring_color=FF3333" height="160" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larrachee&theme=github&hide_border=true&bg_color=0d1117&color=FF3333&line=FF3333&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larrachee&hide_border=true&bg_color=0D1117&color=FF3333&line=FF3333&point=FF3333&area=true&area_color=FF3333&title_color=FF3333" width="95%" />
 </div>
 
 <br/>
@@ -101,7 +101,7 @@
 ### 🥀
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" />
+  <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" width="400" alt="Anime Aesthetic" style="border-radius: 10px;" />
 </div>
 
 ---
@@ -109,14 +109,14 @@
 ### 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larrachee&theme=monokai" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larrachee&theme=github_dark" width="95%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larrachee&theme=monokai" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Larrachee&theme=monokai" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Larrachee&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Larrachee&theme=github_dark" height="180" />
 </div>
 
 ---
