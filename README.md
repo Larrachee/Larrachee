@@ -2,7 +2,7 @@
 
 # ✦ Andreas Pangjiashun ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;UI%2FUX+Design+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+Architecture+Enthusiast;Embedded+Systems+Developer;IoT" alt="Typing SVG" />
 
 <!-- Main Anime Banner -->
 <img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" />
