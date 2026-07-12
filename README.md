@@ -98,7 +98,7 @@
 
 ---
 
-### 🎮 Anime Corner
+### 🥀
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/74/a2/c1/74a2c131ffced1b40dc37e433e5cb764.gif" />
